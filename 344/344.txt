@@ -1,0 +1,20 @@
+import bin2hex
+
+
+def convert_dec_to_bin():
+	''' returns a binary number '''
+	return bin(20).lstrip('0b')
+	pass
+
+def generate_sequence(b_number):
+	''' main function to generate baum_sweet sequence '''
+	pass
+
+def pretty_answer(n):
+	''' gives more descriptive answer to the solution '''
+	pass
+
+if __name__ == '__main__':
+	print convert_dec_to_bin()
+	
+	
